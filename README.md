@@ -14,9 +14,56 @@ I'm a software developer passionate about creating amazing applications and lear
 
 Here are some of my projects that you might find interesting:
 
-- [Project 1](link-to-project-1): Description of project 1.
-- [Project 2](link-to-project-2): Description of project 2.
-- [Project 3](link-to-project-3): Description of project 3.
+
+### Express.js
+
+- [Express.js Micorservices with bullmq](https://github.com/msjadhav03/ts-nest-mongoose-crud.git): CRUD app : mongoose, nestjs, authentication,
+- [Express.js Micorservices with mqqt](https://github.com/msjadhav03/ts-nest-mongoose-crud.git): CRUD app : mongoose, nestjs, authentication,
+- [Express.js CRUD REST API's with mongoose](https://github.com/msjadhav03/ts-nest-mongoose-crud.git): CRUD app : mongoose, nestjs, authentication, 
+- [Express.js CRUD REST API's with mongodb](https://github.com/msjadhav03/ts-nest-mongoose-crud.git): CRUD app : mongoose, nestjs, authentication, 
+- [Express.js CRUD REST API's with cassandra](https://github.com/msjadhav03/ts-nest-mongoose-crud.git): CRUD app : mongoose, nestjs, authentication, 
+- [Express.js CRUD REST API's with postgresSQL, knex, pg](https://github.com/msjadhav03/ts-nest-mongoose-crud.git): CRUD app : mongoose, nestjs, authentication, 
+- [Express.js CRUD REST API's with MySQL, knex, mysql](https://github.com/msjadhav03/ts-nest-mongoose-crud.git): CRUD app : mongoose, nestjs, authentication, 
+- [Express.js CRUD REST API's with arangojs, knex, mysql](https://github.com/msjadhav03/ts-nest-mongoose-crud.git): CRUD app : mongoose, nestjs, authentication, 
+- [Express.js CRUD REST API's with Oracle, knex, mysql](https://github.com/msjadhav03/ts-nest-mongoose-crud.git): CRUD app : mongoose, nestjs, authentication, 
+- [Express.js Micorservices with grpc](https://github.com/msjadhav03/ts-nest-mongoose-crud.git): CRUD app : mongoose, nestjs, authentication,
+- [Express.js Micorservices with redis](https://github.com/msjadhav03/ts-nest-mongoose-crud.git): CRUD app : mongoose, nestjs, authentication,
+- [Express.js Micorservices with kafkajs](https://github.com/msjadhav03/ts-nest-mongoose-crud.git): CRUD app : mongoose, nestjs, authentication,
+
+
+### Nest.js
+- [Nest.js CRUD REST API's app with mongoose ](https://github.com/msjadhav03/ts-nest-mongoose-crud.git): To do app (swagger documention authentication, validaton, rate limiting, mongoose, versioning)
+- [Nest.js CRUD REST API's app with mongodb ](https://github.com/msjadhav03/ts-nest-mongoose-crud.git): CRUD app : mongoose, nestjs, authentication, validation, user module, auth guard, rate limiting, versiong.
+- [Nest.js CRUD REST API's app with cassandra ](https://github.com/msjadhav03/ts-nest-mongoose-crud.git): CRUD app : mongoose, nestjs, authentication, 
+- [Nest.js CRUD REST API's app with arangojs ](https://github.com/msjadhav03/ts-nest-mongoose-crud.git): CRUD app : mongoose, nestjs, authentication, 
+- [Nest.js CRUD REST API's app with postgresSQL, knex, pg ](https://github.com/msjadhav03/ts-nest-mongoose-crud.git): CRUD app : mongoose, nestjs, authentication, 
+- [Nest.js CRUD REST API's app with MySQL, knex, pg ](https://github.com/msjadhav03/ts-nest-mongoose-crud.git): CRUD app : mongoose, nestjs, authentication, 
+- [Nest.js CRUD REST API's app with Oracle, knex, pg ](https://github.com/msjadhav03/ts-nest-mongoose-crud.git): CRUD app : mongoose, nestjs, authentication, 
+- [Nest.js Micorservices with grpc](https://github.com/msjadhav03/ts-nest-mongoose-crud.git): CRUD app : mongoose, nestjs, authentication, 
+- [Nest.js Micorservices with kafkajs](https://github.com/msjadhav03/ts-nest-mongoose-crud.git): CRUD app : mongoose, nestjs, authentication, 
+- [Nest.js Micorservices with redis](https://github.com/msjadhav03/ts-nest-mongoose-crud.git): CRUD app : mongoose, nestjs, authentication, 
+
+### Serverless
+- [Serverless REST API + Dynamodb](https://github.com/msjadhav03/ts-nest-mongoose-crud.git): CRUD app : mongoose, nestjs, authentication,
+
+
+### Koa.js
+
+- [Koa.js Micorservices with bullmq](https://github.com/msjadhav03/ts-nest-mongoose-crud.git): CRUD app : mongoose, nestjs, authentication,
+- [Koa.js Micorservices with mqqt](https://github.com/msjadhav03/ts-nest-mongoose-crud.git): CRUD app : mongoose, nestjs, authentication,
+- [Koa.js CRUD REST API's with mongoose](https://github.com/msjadhav03/ts-nest-mongoose-crud.git): CRUD app : mongoose, nestjs, authentication, 
+- [Koa.js CRUD REST API's with mongodb](https://github.com/msjadhav03/ts-nest-mongoose-crud.git): CRUD app : mongoose, nestjs, authentication, 
+- [Koa.js CRUD REST API's with cassandra](https://github.com/msjadhav03/ts-nest-mongoose-crud.git): CRUD app : mongoose, nestjs, authentication, 
+- [Koa.js CRUD REST API's with postgresSQL, knex, pg](https://github.com/msjadhav03/ts-nest-mongoose-crud.git): CRUD app : mongoose, nestjs, authentication, 
+- [Koa.js CRUD REST API's with MySQL, knex, mysql](https://github.com/msjadhav03/ts-nest-mongoose-crud.git): CRUD app : mongoose, nestjs, authentication, 
+- [Koa.js CRUD REST API's with arangojs, knex, mysql](https://github.com/msjadhav03/ts-nest-mongoose-crud.git): CRUD app : mongoose, nestjs, authentication, 
+- [Koa.js CRUD REST API's with Oracle, knex, mysql](https://github.com/msjadhav03/ts-nest-mongoose-crud.git): CRUD app : mongoose, nestjs, authentication, 
+- [Koa.js Micorservices with grpc](https://github.com/msjadhav03/ts-nest-mongoose-crud.git): CRUD app : mongoose, nestjs, authentication,
+- [Koa.js Micorservices with redis](https://github.com/msjadhav03/ts-nest-mongoose-crud.git): CRUD app : mongoose, nestjs, authentication,
+- [Koa.js Micorservices with kafkajs](https://github.com/msjadhav03/ts-nest-mongoose-crud.git): CRUD app : mongoose, nestjs, authentication,
+
+
+
 
 Feel free to explore more projects in my repositories!
 
