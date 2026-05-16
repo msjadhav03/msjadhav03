@@ -17,9 +17,9 @@ Welcome to my GitHub profile!!!
 Here are some of my projects that you might find interesting:
 
 ### LLM and OpenAI
-- [ Fact Checker App : LLM ](https://github.com/msjadhav03/ts-nest-mongoose-crud.git)
+- [ Fact Checker App : LLM ](https://github.com/msjadhav03/fact-checker-agent-openai.git)
 - [ Advisor Agent : OpenAI](https://github.com/msjadhav03/Advisor-Agent-LLM.git)
-- [ Giggle | Dedicated Entertainer ](https://github.com/msjadhav03/Giggle.git)
+- [ Giggle | Dedicated Entertainer ](https://github.com/msjadhav03/giggle-fullstack-llm-app.git)
 - 
 ### Tensorflow
 - [ Tensorflow Guide ](https://github.com/msjadhav03/ts-nest-mongoose-crud.git) 
