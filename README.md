@@ -16,6 +16,12 @@ Welcome to my GitHub profile!!!
 
 Here are some of my projects that you might find interesting:
 
+### LLM and OpenAI
+- [ Fact Checker App : LLM ](https://github.com/msjadhav03/ts-nest-mongoose-crud.git)
+- 
+### Tensorflow
+- [ Tensorflow Guide ](https://github.com/msjadhav03/ts-nest-mongoose-crud.git) 
+
 
 ### Express.js
 
